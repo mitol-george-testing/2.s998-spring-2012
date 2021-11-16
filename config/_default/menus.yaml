@@ -1,0 +1,51 @@
+leftnav:
+- identifier: eb8f0f22-0388-a9f4-8a0b-678ef787d23f
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 06556c49-6e6b-2025-ac9f-b6e02445b792
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 52bcf20c-777a-b4ef-31d4-6d96edf20ad1
+  name: Labs
+  url: /pages/labs/
+  weight: 30
+- identifier: 2a28a56e-0942-858a-675d-59edf09c89ea
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 40
+- identifier: dab1dc4f-1da2-1ac2-f601-43a182449e27
+  name: MOOS Basics
+  url: /pages/moos-basics/
+  weight: 50
+- identifier: 72c27940-a2e0-2452-abf2-720d0762289d
+  name: Launching the MOOSDB
+  parent: dab1dc4f-1da2-1ac2-f601-43a182449e27
+  url: /pages/moos-basics/launching-the-moosdb
+  weight: 60
+- identifier: 6129bdf2-4f42-a34b-e5e2-f69d085a02ce
+  name: Scoping the MOOSDB
+  parent: dab1dc4f-1da2-1ac2-f601-43a182449e27
+  url: /pages/moos-basics/scoping-the-moosdb
+  weight: 70
+- identifier: 5822be6d-78f0-0532-ffe7-b39618190670
+  name: Poking the MOOSDB
+  parent: dab1dc4f-1da2-1ac2-f601-43a182449e27
+  url: /pages/moos-basics/poking-the-moosdb
+  weight: 80
+- identifier: f084e04e-e786-d502-fe78-239c1e543b2c
+  name: Launching a Mission with pAntler
+  parent: dab1dc4f-1da2-1ac2-f601-43a182449e27
+  url: /pages/moos-basics/launching-a-mission-with-pantler
+  weight: 90
+- identifier: 8ffb37cc-bdb1-028a-cf64-4b911bacbd7d
+  name: Scripted Pokes to the MOOSDB
+  parent: dab1dc4f-1da2-1ac2-f601-43a182449e27
+  url: /pages/moos-basics/scripted-pokes-to-the-moosdb
+  weight: 100
+- identifier: 9aeae296-987a-a81f-109a-2cc49293b92a
+  name: A Simple Example with pXRelay
+  parent: dab1dc4f-1da2-1ac2-f601-43a182449e27
+  url: /pages/moos-basics/a-simple-example-with-pxrelay
+  weight: 110
